@@ -2,4 +2,6 @@
 a few projects of system-on-a-chip during undergraduate
 
 main.c address:
-R
+Projects->Sources->main.c
+
+interrupt functions address:
