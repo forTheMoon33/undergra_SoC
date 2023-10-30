@@ -1,4 +1,4 @@
-# undergrad_SoC
+# undergrad_em
 a few projects of single-chip/microcontroller during undergraduate
 
 main.c address:
