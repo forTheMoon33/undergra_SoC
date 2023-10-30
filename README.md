@@ -1,5 +1,5 @@
 # undergrad_SoC
-a few projects of system-on-a-chip during undergraduate
+a few projects of single-chip/microcontroller during undergraduate
 
 main.c address:
 Projects->Sources->main.c
