@@ -1,8 +1,8 @@
 # undergrad_em
 a few projects of single-chip/microcontroller during undergraduate
 
-main.c address:
+main.c location:
 Projects->Sources->main.c
 
-PIT and interrupt functions address:
+PIT and interrupt handlers location:
 Projects->Project_Settings->Statup_Code->kinetis-sysinit.c
